@@ -1,0 +1,6 @@
+services:
+  redis:
+    container_name: "RedisForBasket"
+    image: redis
+    ports:
+      - 6379:6379
