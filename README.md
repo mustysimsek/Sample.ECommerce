@@ -9,8 +9,9 @@ Sepet Id 'si için Token alacağım servis olmadığından dolayı manuel giriş
 
 # Proje Çalıştırılmadan Önce
 Proje .Net 5 ve Docker'a ihtiyaç duymaktadır.
-1- Projenin klasörüne bir komut işlemci ile gidildikten sonra "docker-compose up -d" kodu çalıştırılmalıdır
-2- "Sample.ECommerce.Api" StartUp Project olarak seçilmelidir. Sonrasında proje açılacaktır.
+
+1. Projenin klasörüne bir komut işlemci ile gidildikten sonra "docker-compose up -d" kodu çalıştırılmalıdır
+2. "Sample.ECommerce.Api" StartUp Project olarak seçilmelidir. Sonrasında proje açılacaktır.
 
 # Kullanılan Teknolojiler
 - .Net 6
